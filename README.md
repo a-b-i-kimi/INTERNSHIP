@@ -1,15 +1,15 @@
 # INTERNSHIP
 
-day 1 - Basic of python.
+day 1 - Basic of python. 19-05-2025
 
-day 2 - Numpy basics.
+day 2 - Numpy basics.    20-05-2025
 
-day 3- Numpy operations(datetime, matplotlib visualization).
+day 3- Numpy operations(datetime, matplotlib visualization). 21-05-2025
 
-day 4- Pandas library functions.
+day 4- Pandas library functions.  22-05-2025
 
-day 5- Matplotlib library Functions.
+day 5- Matplotlib library Functions. 23-05-2025
 
-day 6- Seaborn Visualization.
+day 6- Seaborn Visualization.  26-05-2025
 
-day 7- Revision the library functons (Assesement).
+day 7- Revision the library functions (Assesement).  27-05-2025
