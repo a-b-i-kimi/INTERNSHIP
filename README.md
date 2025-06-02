@@ -16,6 +16,6 @@ day 7- Revision the library functions (Assesement).  27-05-2025
 
 day 8- Practice Seaborn Visualization. 28-05-2025
 
-day 9- Visualization of matplotlib and seaborn using Kaggele dataset. 29-05-2025
+day 9- Visualization of matplotlib and seaborn using Kaggale dataset. 29-05-2025
 
 day 10- Plotly Visualization. 30-05-2025
